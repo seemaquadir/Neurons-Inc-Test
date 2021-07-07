@@ -58,6 +58,7 @@ Measuring your passed requirements is an effective method of taking the pulse on
 What would the stack look like if you should design a QA environment from scratch today?
 ------------------------------------------------------------------------------------------
 To create an QA environment from the scratch requires the list of softwares, tools, access to any software. We should know what kind of implementation our client needs and build the setup according to it.Once we get the list of the requirements from client, we can decide on the softwares and approve them from clients and together work with clients,developer team,admin team for the access,integrations,performance and functionalties for the product.
+
 =================================================================================================================================================================
 
 How would you involve the QA Framework in the product team, from design to engineering?
