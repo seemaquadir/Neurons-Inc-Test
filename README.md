@@ -32,6 +32,8 @@ console.log(getRandomFruitsName('en'))
 console.log(getRandomFruitsName('en'))
 console.log(getRandomFruitsName('en'))
 
+Documentation and status of the project 
+https://github.com/seemaquadir/Neurons-Inc-Test/projects/2
 Created workflow for the process
 https://github.com/seemaquadir/Neurons-Inc-Test/tree/main/.github/workflows
 
