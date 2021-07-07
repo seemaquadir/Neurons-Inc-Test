@@ -1,11 +1,12 @@
 # Neurons-Inc-Test
 
 ****Neurons QA Engineering Posman API Test.**
-
+-----------------------------------------------
 
 Attached description and doumentation under the projects and also created an Issue documentation for the round off in the process, if there are any issues, on how can we use them.
 
 https://github.com/seemaquadir/Neurons-Inc-Test/projects/1
+
 
 ____________________________________________________________________________________________________________________________________________________________________
 **Questionnaire**
@@ -52,7 +53,10 @@ Passed Requirement
 -------------------
 Measuring your passed requirements is an effective method of taking the pulse on a given testing cycle. It is also a good measure to consider during a Go/No-Go meeting for a large release.
 
+====================================================================================================================================================================
 What would the stack look like if you should design a QA environment from scratch today?
 
 How would you involve the QA Framework in the product team, from design to engineering?
+----------------------------------------------------------------------------------------
+
 
