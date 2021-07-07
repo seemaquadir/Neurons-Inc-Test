@@ -1,21 +1,55 @@
-- name: Setup Node.js environment
-  uses: actions/setup-node@v2.2.0
+- name: Cypress.io
+  # You may pin to the exact commit or the version.
+  # uses: cypress-io/github-action@f06537910911844bce953022f6d643a0f69fd73b
+  uses: cypress-io/github-action@v2.9.7
   with:
-    # Set always-auth in npmrc
-    always-auth: # optional, default is false
-    # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
-    node-version: # optional
-    # Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.
-    architecture: # optional
-    # Set this option if you want the action to check for the latest available version that satisfies the version spec
-    check-latest: # optional
-    # Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN
-    registry-url: # optional
-    # Optional scope for authenticating against scoped registries
-    scope: # optional
-    # Used to pull node distributions from node-versions.  Since there's a default, this is typically not supplied by the user.
-    token: # optional, default is ${{ github.token }}
-    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn
-    cache: # optional
-    # Deprecated. Use node-version instead. Will not be supported after October 1, 2019
-    version: # optional
+    # Sends test results to Cypress Dashboard
+    record: # optional
+    # Set configuration values. Separate multiple values with a comma. The values set here override any values set in your configuration file.
+    config: # optional
+    # Path to a JSON file where configuration values are set.
+    config-file: # optional, default is cypress.json
+    # Sets Cypress environment variables
+    env: # optional
+    # Name of the browser to use
+    browser: # optional
+    # Command that overrides cypress run
+    command: # optional
+    # Command for starting local server in the background
+    start: # optional
+    # A different start command on Windows
+    start-windows: # optional
+    # Command to run in build step before starting tests
+    build: # optional
+    # Whether or not to run install
+    install: # optional
+    # Custom install command to use
+    install-command: # optional
+    # Whether or not to run tests
+    runTests: # optional
+    # Local server URL to wait for
+    wait-on: # optional
+    # Amount of time to wait for wait-on url to be available
+    wait-on-timeout: # optional
+    # Whether or not to load balance tests using multiple containers
+    parallel: # optional
+    # Group setting for tests
+    group: # optional
+    # Tag setting for tests
+    tag: # optional
+    # Working directory containing Cypress folder
+    working-directory: # optional
+    # Whether or not to use headless mode
+    headless: # optional
+    # Provide a specific specs to run
+    spec: # optional
+    # Path of project to run
+    project: # optional
+    # You can prefix the default test command using the command-prefix option.
+    command-prefix: # optional
+    # ID associates multiple CI machines to one test run
+    ci-build-id: # optional
+    # Custom cache key
+    cache-key: # optional
+    # Whether or not to silence any Cypress specific output from stdout
+    quiet: # optional
