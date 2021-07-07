@@ -13,6 +13,7 @@ ________________________________________________________________________________
 Please find my response for the below questions.
 
 What is the most important job of a QA engineer in a product team?
+---------------------------------------------------------------------
 
 At first I would like to describe what are the main feautures needed for the product team.The product team is responsible for implementing strategy, building the roadmap, and defining product features. These are the people who choose what gets built, and measure performance —,crucial organizational roles within any company.
 As a QA one should know the main purpose, main business of the product like what are we manufacturing, why are we doing, how are we doing. Then we can understand the requirement of it. We need to understand the business and make sure it is on company's quality standards. A thorough funcanility testing, regression testing, smoke ,sanity testing. Everything should be covered so that there are no misses of new/enhanced feature issues. Reviewing the specifications provided by the business and validating with the existing component present is also an important task for the QA. What is expected by business and what is there in the system!.
@@ -26,7 +27,7 @@ What are the main KPIs for a QA engineer?
 KPIs - Key performance Indicator, the name itself says about key performance checks which QA need to perform.
 
 Requirements of the Business
---------------------------------
+_____________________________
 We’ll keep track of the percentage of requirements that are met by at least one test. The efficacy of a requirement is determined by whether or not a test exists to demonstrate that it performs. The same can be said for a test that is part of your test schedule. The reliability of the test is determined by whether it was created to validate a requirement. Why do you need the test if it can’t be traced back to a requirement? As a Tester, you can keep an eye on this KPI every day and challenge the importance of rejected requirements and tests. You can optimize the testing process by determining how many test cases are being allotted to a requirement.
 
 Execution of Test Instances
