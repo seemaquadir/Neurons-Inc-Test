@@ -23,11 +23,12 @@ QA is the major step in every business, as the QA team is the one which approves
 ====================================================================================================================================================================
 
 What are the main KPIs for a QA engineer?
+------------------------------------------
 
 KPIs - Key performance Indicator, the name itself says about key performance checks which QA need to perform.
 
 Requirements of the Business
-_____________________________
+------------------------------
 We’ll keep track of the percentage of requirements that are met by at least one test. The efficacy of a requirement is determined by whether or not a test exists to demonstrate that it performs. The same can be said for a test that is part of your test schedule. The reliability of the test is determined by whether it was created to validate a requirement. Why do you need the test if it can’t be traced back to a requirement? As a Tester, you can keep an eye on this KPI every day and challenge the importance of rejected requirements and tests. You can optimize the testing process by determining how many test cases are being allotted to a requirement.
 
 Execution of Test Instances
