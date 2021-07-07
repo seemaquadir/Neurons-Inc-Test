@@ -21,7 +21,7 @@ As a QA one should know the main purpose, main business of the product like what
 There is always a cycle which is every QA important job. Requriment Analysis -> Test case design -> Test Case Review -> Test Data preparation -> Test Execution -> Defect/Bug Raising -> tracking up on each process using tool will be more easy to track-> Update the status of test/Bug when every it moves a step a head-> Test Documentation of test results, Bugs,Enhancements -> Test Results review -> A professional presentation to business on asked.
 QA is the major step in every business, as the QA team is the one which approves whether the prodcut is working fine or not. SO being QA we should always make sure we donot miss anything.
 
-====================================================================================================================================================================
+=========================================================================================================
 
 What are the main KPIs for a QA engineer?
 ------------------------------------------
@@ -58,5 +58,5 @@ What would the stack look like if you should design a QA environment from scratc
 
 How would you involve the QA Framework in the product team, from design to engineering?
 ----------------------------------------------------------------------------------------
-
+In QA framework the cruical point is requirements.Once we are done with requirement gathering, I start working on the test plan and test strategies with the team. A clear documentation of work distribution such as total how many sprints, resource, estimated user stories and process to do. Are we using any new technologies in this. Maintain a word document which describes all the functionalities expected and PPT on the test strategy and how we will progress. Once we finalize the test strategy,planning. The I start working on the USer story- Understanding the baseline of it,working on the testcase design, test data preparation, work to the developer team to know how they have made the design and if its new tool, how we use the tool.I participate in scrum activities and always take intitative for any work and discussions.After the testcase design and its review, I start working on the Test Execution setup the new APIs or new tools and work on them, defects, JIRA and Confluence updates/tracking.Upload the test results in share point so that poeple can access it.Once the code is moved to prod Instance, I perform the smoke test to check whether the build and integration are working fine.
 
