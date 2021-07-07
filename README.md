@@ -7,8 +7,35 @@ Attached description and doumentation under the projects and also created an Iss
 
 https://github.com/seemaquadir/Neurons-Inc-Test/projects/1
 
-
 ____________________________________________________________________________________________________________________________________________________________________
+**Newurons QA Engineering Cypress Test**
+---------------------------------------
+Random fruit Names:
+
+Installed node and npm in the system with versions
+
+(base) moinayman@MoinAymans-MacBook-Pro downloads % npm --version                                             
+**6.14.13**
+(base) moinayman@MoinAymans-MacBook-Pro downloads % node --version
+**v14.17.3**
+(base) moinayman@MoinAymans-MacBook-Pro downloads % 
+
+Test:
+const getRandomFruitsName = require('random-fruits-name')
+console.log(getRandomFruitsName()) 
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+console.log(getRandomFruitsName('en'))
+
+Created workflow for the process
+https://github.com/seemaquadir/Neurons-Inc-Test/tree/main/.github/workflows
+
+================================================================================================================================================================
 **Questionnaire**
 
 Please find my response for the below questions.
